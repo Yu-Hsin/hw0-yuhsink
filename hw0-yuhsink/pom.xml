@@ -57,7 +57,7 @@
 		</dependency>
 	</dependencies>
 	<scm>
-		<connection>scm:git:git@github.com:Yu-Hsin/yuhsink-hw0.git</connection>
-		<developerConnection>scm:git:git@github.com:Yu-Hsin/yuhsink-hw0.git</developerConnection>
+		<connection>scm:git:git@github.com:Yu-Hsin/hw0-yuhsink.git</connection>
+		<developerConnection>scm:git:git@github.com:Yu-Hsin/hw0-yuhsink.git</developerConnection>
 	</scm>
 </project>
